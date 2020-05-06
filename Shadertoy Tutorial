@@ -1,0 +1,29 @@
+/*
+// 사이트에 대한 간략한 소개
+
+Shadertoy is created by Beautypi (Inigo Quilez and Pol Jeremias).
+
+Very special thanks to Reinder Nijhoff, Patrick Labatut, Henrique Lorenzi, Otavio Good, Philip Wagner, Yanling He, Juan A. 
+Martinez (stage7), Mari Miyashita, Nikochan, Sara Goepfert, Jose Manuel Perez (JosSs), Teresa, Sara (Gizma), Brett (AudEo Flow), 
+Dave Hoskins, Osama Mahmood, Joan Perez, Kamran Saifullah, Chintu Solanki, Eduardo (@deb_security). 
+
+We'd also like to thank all these wonderful people for their support via Patreon:
+The Khronos Group 외 ...
+
+*/
+
+/*
+// 간략하게 언어 설명 
+
+'vec'은 'vec2', 'vec3', 'vec4'까지 있다. 
+'vec2': 2개의 float 값을 가진다. 
+'vec3': 3개의 float 값을 가진다. 
+'vec4': 4개의 float 값을 가진다. 
+
+예)
+vec2 pos = vec2(x, y); // x, y 두 개의 값을 입력할 수 있다.
+vec3 pos = vec3(x, y, z); // 3차원 위치 표현
+vec3 col = vec3(r, g, b); // 색상 표현
+vec4 col = vec4(r, g, b, a); // 색상+투명도 표현
+
+*/
