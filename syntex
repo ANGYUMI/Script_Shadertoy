@@ -1,0 +1,12 @@
+// fragcolor
+
+void mainImage( out vec4 fragcolor)
+{
+fragcolor = vec4(0, 0, 0, 1.0); // Black
+fragcolor = vec4(1, 0, 0, 1.0); // Red
+fragcolor = vec4(1, 1, 0, 1.0); // Yellow
+fragcolor = vec4(0, 1, 0, 1.0); // Green
+fragcolor = vec4(0, 0, 1, 1.0); // Blue
+fragcolor = vec4(1, 1, 1, 1.0); // White
+}
+
